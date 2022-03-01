@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bmsimons/file-share-app/issues"
   },
-  "homepage": "https://github.com/bmsimons/file-share-app#readme"
+  "homepage": "https://github.com/bmsimons/file-share-app#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
